@@ -1,6 +1,6 @@
 ### Hi, I'm Benjamin Morales 👋
 
-IT Operations Engineer in New York with 7+ years running identity, access, and endpoint platforms at scale. Right now I run Okta IAM for 1,500+ identities and a 1,500-device macOS fleet.
+IT Operations Engineer in New York with 7+ years running identity, access, and endpoint platforms at scale. Right now I run Okta IAM for 1,500+ identities and a 1,500+ device macOS fleet.
 
 I treat IT like infrastructure: declarative config, version control, and automation instead of manual clicks. Outside of work, I run a self-hosted homelab that I can rebuild from scratch with a runbook.
 
