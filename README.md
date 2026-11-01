@@ -26,4 +26,4 @@ I treat IT like infrastructure: declarative config, version control, and automat
 
 #### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/benmorany)
+🌐 [benjaminmorales.dev](https://www.benjaminmorales.dev) · [LinkedIn](https://www.linkedin.com/in/benmorany)
